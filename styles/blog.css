@@ -1,0 +1,33 @@
+ 
+ *{
+    margin: 20px;
+    background-color: burlywood;
+ }
+ nav > ul > li {
+    display: inline;
+    
+    /* margin: 10px; */
+    /* margin-right: 10px;
+    margin-left: 20px; */
+    
+    
+}
+nav > li > a{
+    text-decoration: none;
+
+}
+footer{
+    margin-top: 30px;
+    text-align: 30px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+.back{
+    background-color: aqua;
+    text-align: center;
+}
